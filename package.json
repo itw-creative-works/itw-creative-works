@@ -1,0 +1,17 @@
+{
+  "name": "itw-creative-works-itw-creative-works",
+  "version": "1.0.0",
+  "description": "ITW Creative Works We're a creative agency based in Los Angeles, California. We provide software, marketing & consulting services to businesses of all sizes. We specialize in responsive web design, desktop app development, and SEO.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "ITW Creative Works",
+  "license": "ISC",
+  "homepage": "https://itwcreativeworks.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itw-creative-works/itw-creative-works.git"
+  }
+}
